@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+*.log
+
+# Unity project and private working materials
+Assets/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+ProjectSettings/
+Packages/
+_CodexWork/
+Design/
+*.unitypackage
+*.csproj
+*.sln
